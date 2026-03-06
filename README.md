@@ -1,6 +1,7 @@
 # SOC-Alert-Triage-Log
 
 Summary of the alerts I have resolved on the letsdefend platform  
+My profile: [https://app.letsdefend.io/user/lburgosjr8]  
 
 ## Alert ID #257
 **Date:** 2026-02-19  
