@@ -1,21 +1,21 @@
 # SOC-Alert-Triage-Log
 
-Summary of the alerts I have resolved on the letsdefend platform
+Summary of the alerts I have resolved on the letsdefend platform  
 
 ## Alert ID #257
 **Date:** 2026-02-19  
 **Alert Title:** Phishing email  
 **Severity:** Medium  
-**Source:** 103.80.134.63 (External), free@coffeeshoop.com
-**Target:** Felix@letsdefend.io
+**Source:** 103.80.134.63 (External), free@coffeeshoop.com  
+**Target:** Felix@letsdefend.io  
 
-**Hypothesis:** External attacker attempting to install malware through phishing.
+**Hypothesis:** External attacker attempting to install malware through phishing.  
 
-**Evidence:**
-- Process executed in the endpoint
-- Attachment with a 61/75 virustotal score 
+**Evidence:**  
+- Process executed in the endpoint  
+- Attachment with a 61/75 virustotal score  
 
-**Classification:** True Positive
+**Classification:** True Positive  
 **Action Taken:** Deleted email from the user's inbox and contain the endpoint  
 
 ---
